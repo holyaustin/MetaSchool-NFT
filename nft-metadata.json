@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "MetaSchool",
+        "value": "Austin"
+      },
+      {
+        "trait_type": "Metaschool2",
+        "value": "Austin2"
+      }
+    ],
+    "description": "MetaSchool NFT.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTdNy8E8URmJV6tdcTUwB9QPap7xnrH7MyBRth7ryTuYy",
+    "name": "METANFT"
+  }
+  
